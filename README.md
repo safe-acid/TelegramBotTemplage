@@ -37,8 +37,7 @@ python3 main.py
 ```
 tg_bot_template/
 ├── main.py              # Точка входа
-├── handlers/            # Хендлеры сообщений и команд
-├── middlewares/         # При необходимости
+├── .env            # переменные окружения
 ├── config.py            # Конфигурации и токен бота
 ├── requirements.txt     # Зависимости
 └── README.md            # Документация
